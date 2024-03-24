@@ -2,9 +2,9 @@
 
 **👨🏼‍💻 Senior Software Engineer • 🚵‍♂️ Mountainbiker • ⛱️ Part-Time Carioca**
 
-Formerly at [Adobe](https://adobe.com) and [OneInside](https://one-inside.com).
+Formerly at [Adobe](https://adobe.com) and [One Inside](https://one-inside.com).
 
-## Projects i contribute to
+## Projects i currently contribute to
 
 - [demand](https://github.com/jdx/demand) - A prompt library for Rust
 - [mise](https://github.com/jdx/mise) - A asdf-like runtime manager and task runner
