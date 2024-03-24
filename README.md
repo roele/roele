@@ -1,6 +1,6 @@
 # Roland Schaer
 
-**👨🏼‍💻 Senior Software Engineer • 🚵‍♂️ Passionate Mountainbiker • ⛱️ Part-Time Carioca**
+**👨🏼‍💻 Senior Software Engineer • 🚵‍♂️ Mountainbiker • ⛱️ Part-Time Carioca**
 
 Formerly at [Adobe](https://adobe.com) and [OneInside](https://one-inside.com).
 
