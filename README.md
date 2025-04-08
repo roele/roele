@@ -1,7 +1,5 @@
 # Roland Schaer
 
-**👨🏼‍💻 Senior Software Engineer • 🚵‍♂️ Mountainbiker • ⛱️ Part-Time Carioca**
-
 ## Projects i occasionally contribute to
 
 - [mise](https://github.com/jdx/mise) - A asdf-like runtime manager and task runner
