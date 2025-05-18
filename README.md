@@ -1,8 +1,9 @@
 # Roland Schaer
 
-## Projects i occasionally contribute to
+## Projects i maintain or occasionally contribute to
 
 - [mise](https://github.com/jdx/mise) - A asdf-like runtime manager and task runner
+- [mise-java](https://github.com/jdx/mise-java) - A JVM data crawler
 - [demand](https://github.com/jdx/demand) - A prompt library for Rust
 
 ## Connect with me
